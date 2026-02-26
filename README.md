@@ -1,102 +1,135 @@
-<h1 align="center">Hi 👋, I'm Sambhav Mehra</h1>
-<h3 align="center">Final Year B.Tech CSE (Cyber Security) | SOC & Security Enthusiast | CEH Certified</h3>
+<div align="center">
+
+```
+███████╗ █████╗ ███╗   ███╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
+██╔════╝██╔══██╗████╗ ████║██╔══██╗██║  ██║██╔══██╗██║   ██║
+███████╗███████║██╔████╔██║██████╔╝███████║███████║██║   ██║
+╚════██║██╔══██║██║╚██╔╝██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝
+███████║██║  ██║██║ ╚═╝ ██║██████╔╝██║  ██║██║  ██║ ╚████╔╝ 
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  
+                                                              
+███╗   ███╗███████╗██╗  ██╗██████╗  █████╗ 
+████╗ ████║██╔════╝██║  ██║██╔══██╗██╔══██╗
+██╔████╔██║█████╗  ███████║██████╔╝███████║
+██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██╗██╔══██║
+██║ ╚═╝ ██║███████╗██║  ██║██║  ██║██║  ██║
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+### `// Cybersecurity Engineer · Ethical Hacker · SOC Analyst`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Securing+the+digital+world%2C+one+vulnerability+at+a+time.;Threat+Analysis+%7C+Vulnerability+Assessment+%7C+SIEM+%2F+SOC;OWASP+TOP+10+%7C+Ethical+Hacking+%7C+Blockchain+Security;CEH+Certified+%7C+CCNA+Certified+%7C+IIT+NPTEL)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sambhav-mehra-484427359)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sambhavv__7__)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sambhavv)
+[![Profile Views](https://visitcount.itsvg.in/api?id=sambhavmehra&icon=6&color=2)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 
-## 🧠 About Me
-- 🎓 Final Year B.Tech (CSE - Cyber Security)
-- 🏆 1st Position - College Level CTF "Crack the Hack"
-- 🎖 NCC 'A' Certificate Holder (Army Wing)
-- 🔐 Passionate about Threat Detection, SIEM, IDS & SOC Automation
-- 🚀 Building Real-Time Security Tools & AI-powered Security Systems
+## `> whoami`
+
+```bash
+$ cat /etc/sambhav.conf
+
+[identity]
+name        = Sambhav Mehra
+role        = B.Tech CSE (Cyber Security) @ SISTec, Bhopal
+focus       = Threat Analysis | Vulnerability Assessment | SOC Operations
+mission     = Protect digital assets. Strengthen organizational security.
+status      = Open to Internships & Opportunities
+achievement = 🏆 1st Place — CTF "Crack the Hack" | 🎖️ NCC 'A' Certificate (Army Wing)
+```
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://instagram.com/sambhavv__7__" target="blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/sambhav-mehra-484427359" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sambhavvmehra07@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-</p>
+## `> ls ./skills`
+
+<div align="center">
+
+### ⚔️ Offensive & Defensive Security
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
+![OWASP TOP 10](https://img.shields.io/badge/OWASP%20TOP%2010-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%230078D4.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-%23FF6600.svg?style=for-the-badge&logo=portswigger&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-%23563D7C.svg?style=for-the-badge&logo=gnupg&logoColor=white)
+
+### 🔍 SOC & Threat Intelligence
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-%23007ACC.svg?style=for-the-badge&logo=azure-data-explorer&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-%23232F3E.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23004170.svg?style=for-the-badge&logo=nmap&logoColor=white)
+
+### 💻 Development & Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `> cat ./certifications.txt`
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🔐 Cybersecurity
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge)
-
-### 📊 SIEM & Monitoring
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge)
-![KQL](https://img.shields.io/badge/KQL-000000?style=for-the-badge)
-
-### 🌐 Web & Database
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+| 🏅 Certification | 🏢 Issuing Body |
+|:---|:---|
+| **Certified Ethical Hacker (CEH)** | Skill India |
+| **CCNA — Cisco Certified Network Associate** | Cisco Networking Academy |
+| **Practical Cyber Security for Practitioners** | NPTEL · IIT Kanpur |
+| **Ethical Hacking Training** | Hacker Academy |
+| **Python Essentials** | Cisco Networking Academy |
 
 ---
 
-## 🔥 Featured Projects
+## `> cat ./achievements.txt`
 
-### 🛡 Integration of SIEM with IDS
-- Real-time traffic monitoring using Scapy
-- ML-based malicious IP classification
-- Auto-blocking suspicious IPs
-- Centralized logging dashboard (Streamlit)
-
-### 🤖 SHARVA - Cyber Security Assistant
-- AI-powered security chatbot
-- Dual Mode: General + Security Mode
-- Groq API Integration
-- Linux-based modular architecture
-
-### 🚨 SOAR SOC Assistant
-- AI-driven incident response automation
-- Virtual SOC Chatbot
-- Auto Threat Blocking
-- Report Generation using AI
-
-### 🏥 Secure Electronic Health Records (Blockchain)
-- Patient-controlled medical data access
-- Decentralized storage
-- Built using Python + MetaMask + Ganache
+```
+[+] 🏆  1st Place — CTF Event "Crack the Hack" (College Level)
+[+] 🎖️  NCC 'A' Certificate — National Cadet Corps (Army Wing)
+         └─ Demonstrated: Discipline · Leadership · Teamwork
+[+] 📚  B.Tech CSE (Cyber Security) — SISTec Bhopal | CGPA: 7.13
+[+] 🎤  Coordinated multiple Techno-Cultural events at college level
+```
 
 ---
 
-## 📜 Certifications
-- 🎓 Certified Ethical Hacker (CEH)
-- 🌐 CCNA - Cisco Networking Academy
-- 🛡 Practical Cyber Security - NPTEL (IIT Kanpur)
-- 🐍 Python Essentials - Cisco Networking Academy
+## `> neofetch --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sambhavmehra&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sambhavmehra&theme=chartreuse-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambhavmehra&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sambhavmehra&theme=tokyonight&hide_border=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=sambhavmehra&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sambhavmehra&theme=tokyonight&hide_border=true&layout=compact)
+```
+┌─────────────────────────────────────────────────────────────┐
+│   "The quieter you become, the more you are able to hear."  │
+│                                        — Kali Linux motto   │
+└─────────────────────────────────────────────────────────────┘
+```
 
----
+📬 **sambhavvmehra07@gmail.com** · 📍 **Bhopal, MP, India**
 
-## 🎯 Career Objective
-To secure a position in cybersecurity where I can apply my skills in threat analysis, vulnerability assessment, and SOC operations to protect digital assets and strengthen organizational security.
+*Actively seeking cybersecurity internships & entry-level roles*
 
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+</div>
