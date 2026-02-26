@@ -117,18 +117,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 `./github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sambhavmehra&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambhavmehra&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&border_radius=10" height="165"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=sambhavmehra&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&border_radius=10" width="60%"/>
-
-<br/><br/>
 
 [![Sambhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sambhavmehra&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF4130&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
